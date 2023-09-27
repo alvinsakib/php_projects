@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.basic{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.header {
+    background-color: #4a2b33;
+    width: 100%;
+    height: 750px;
+}
+.header h2,h4{
+    margin-left: 200px;
+    margin-top: 250px;
+}
+.header h2{
+    color: white;
+}
+.header h4{
+    color: white;
+}

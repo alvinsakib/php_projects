@@ -1,0 +1,1 @@
+<h2>Add Category Page View</h2>
